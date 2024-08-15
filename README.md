@@ -72,6 +72,11 @@ Inside `requirements.txt`, add the line:
 
 `git pull`
 
+## More Information
+
+See this tutorial for managing secrets (API keys, passwords, etc) on HuggingFace Spaces: https://huggingface.co/docs/hub/en/spaces-overview#managing-secrets-and-environment-variables
+
+
 `git push`
 
 
