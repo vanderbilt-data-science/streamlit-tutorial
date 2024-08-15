@@ -72,12 +72,13 @@ Inside `requirements.txt`, add the line:
 
 `git pull`
 
+`git push`
+
 ## More Information
 
 See this tutorial for managing secrets (API keys, passwords, etc) on HuggingFace Spaces: https://huggingface.co/docs/hub/en/spaces-overview#managing-secrets-and-environment-variables
 
 
-`git push`
 
 
 6. Demo your new app on your HuggingFace Space: https://huggingface.co/spaces/USERNAME/SPACENAME
