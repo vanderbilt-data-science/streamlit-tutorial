@@ -1,6 +1,13 @@
 # Streamlit Tutorial
 A tutorial repo for creating Streamlit UI for projects
 
+## Dependencies
+
+For this tutorial, you will need:
+
+- a HuggingFace account
+- an OpenAI API key (to use the app you create)
+
 ## Instructions
 
 ### HuggingFace: Create your Space
