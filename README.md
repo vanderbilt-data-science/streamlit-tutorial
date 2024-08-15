@@ -59,8 +59,12 @@ Inside `requirements.txt`, add the line:
 5. Now we're ready to upload our model to the hub! Use git to add, commit, and push your changes.
 
 `git add app.py requirements.txt`
+
 `git commit -m "create our app and requirements file"`
+
 `git pull`
+
 `git push`
+
 
 6. Demo your new app on your HuggingFace Space: https://huggingface.co/spaces/USERNAME/SPACENAME
