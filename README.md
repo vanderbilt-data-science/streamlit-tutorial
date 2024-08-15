@@ -6,6 +6,7 @@ A tutorial repo for creating Streamlit UI for projects
 For this tutorial, you will need:
 
 - a HuggingFace account
+- a HuggingFace API Token with WRITE access
 - an OpenAI API key (to use the app you create)
 
 ## Instructions
